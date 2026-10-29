@@ -1,0 +1,18 @@
+# What is Phishing?
+
+Phishing is a social engineering cyber attack where cybercriminals pretend to be a legit organisation to steal your credentials, money, or data.
+
+### Types
+1. **Email Phishing** - Fake emails from banks, Microsoft, etc.
+2. **Smishing** - Phishing through SMS/WhatsApp
+3. **Vishing** - Phishing through phone calls
+4. **Spear Phishing** - Targeted attack on a specific individual usually because of their role.
+
+### Why It Works
+- Creates urgency: "Your account will be  blocked!"
+- Exploits trust: Looks like your boss or bank
+- Fear and curiosity: "You have a refund"
+
+### Real Example
+Subject: Urgent: Your Microsoft Password Expires Today
+Body: Click here to reset -> links to microsoft-secure-login.ru (fake)
